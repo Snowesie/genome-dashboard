@@ -1,6 +1,6 @@
 # Genome Dashboard
 
-**[Live Demo](https://kewklw.github.io/genome-dashboard/)**
+**[Live Demo](https://snowesie.github.io/genome-dashboard/)** · based on [KewkLW/genome-dashboard](https://github.com/KewkLW/genome-dashboard)
 
 A single-file, client-side genome analyzer and visualizer. Drop your 23andMe (or AncestryDNA) raw data file into your browser and get an interactive dashboard with trait analysis, health risk assessment, pharmacogenomics, and more.
 
